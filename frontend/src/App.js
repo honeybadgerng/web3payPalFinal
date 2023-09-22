@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import logo from "./logo.png";
+import logo from "./XclusivePay.png";
 import { Layout, Button } from "antd";
 import CurrentBalance from "./componets/CurrentBalance";
 import RequestAndPay from "./componets/RequestAndPay";
