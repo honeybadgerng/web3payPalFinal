@@ -2,7 +2,7 @@
 
 Welcome to the README of Xclusive Pay, a decentralized payment platform inspired by PayPal, but powered by blockchain technology. This Dapp aims to address the limitations imposed by traditional payment platforms in certain countries and create a level playing ground for remote workers worldwide. With Web3PayPal, you can seamlessly request cryptocurrency from loved ones or employers and fulfill outstanding payment requests. Please note that Web3PayPal is a web3 application, so you'll need a PC to use it effectively.
 
-![Web3PayPal Logo or Banner](web3-paypal-frontend.vercel.app)
+!You can access the original project [here](web3-paypal-frontend.vercel.app)
 
 ## Table of Contents
 - [Introduction](#introduction)
